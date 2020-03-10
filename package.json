@@ -1,0 +1,16 @@
+{
+  "name": "final-notes-app-withjson",
+  "version": "1.0.0",
+  "main": "notes.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^3.0.0",
+    "yargs": "^15.1.0"
+  },
+  "devDependencies": {},
+  "description": ""
+}
